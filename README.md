@@ -8,7 +8,7 @@
 
 1.3 pip install -r requirements.txt
 
-1.4 pip install dev-requirements.txt
+1.4 pip install -r dev-requirements.txt
 
 1.5 python manage.py migrate
 
