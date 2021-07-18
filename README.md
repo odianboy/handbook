@@ -8,11 +8,13 @@
 
 1.3 pip install -r requirements.txt
 
-1.4 python manage.py migrate
+1.4 pip install dev-requirements.txt
 
-1.5 python manage.py createsuperuser
+1.5 python manage.py migrate
 
-1.6 python manage.py runserver
+1.6 python manage.py createsuperuser
+
+1.7 python manage.py runserver
 
 ### 2. К проекту подклечен swagger.
 
